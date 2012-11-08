@@ -1,6 +1,6 @@
 # Basic xHTML Layout
 
-## Basic site layout in xHTML for:
+Basic site layout in xHTML for:
 
 * Wide layout
 * One column layout
